@@ -1,0 +1,8 @@
+python==3.9
+dowhy==0.8
+econml==0.12.0
+catenets==0.2.3
+gcastle==1.0.3
+causica==0.2.0
+causal-learn==0.1.3.3
+transformers==4.24.0
